@@ -1,0 +1,13 @@
+.topcontainer {
+    height: 700px;
+    background-image: url(https://images.pexels.com/photos/7130469/pexels-photo-7130469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    z-index: 2;
+}
+.text {
+    z-index: 3;
+}
+
+.midcontainer {
+    background-image: url(https://images.pexels.com/photos/7130469/pexels-photo-7130469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
